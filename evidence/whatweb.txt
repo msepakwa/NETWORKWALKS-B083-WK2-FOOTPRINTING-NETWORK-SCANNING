@@ -1,1 +1,38 @@
+WhatWeb Evidence — networkwalks.com
 
+Target:
+https://networkwalks.com
+
+Observed:
+HTTP 301 redirect to HTTPS
+HTTP 200 response over HTTPS
+
+IP Address:
+192.232.216.135
+
+Web Server:
+Apache
+
+Website Title:
+Networkwalks Academy
+
+Technologies / Components:
+- WordPress 7.1.1
+- WordPress Download Manager 3.3.58
+- Bootstrap 7.1.1
+- jQuery 3.7.1
+- Google Tag Manager
+- HTML5
+- Open Graph Protocol
+
+Cookies:
+__wpdm_client
+
+Email:
+info@networkwalks.com
+
+Additional Headers / Indicators:
+- permissions-policy
+- referrer-policy
+- x-endurance-cache-level
+- x-nginx-cache
