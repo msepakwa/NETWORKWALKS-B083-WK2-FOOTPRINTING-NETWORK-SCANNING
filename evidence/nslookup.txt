@@ -1,1 +1,16 @@
+Nslookup Evidence — networkwalks.com
 
+DNS Server:
+8.8.8.8
+
+Query:
+networkwalks.com
+
+Result:
+Non-authoritative answer
+
+Name:
+networkwalks.com
+
+Address:
+192.232.216.135
