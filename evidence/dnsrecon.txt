@@ -1,1 +1,38 @@
+DNSRecon Evidence — networkwalks.com
 
+Target:
+networkwalks.com
+
+DNSSEC:
+DNSSEC query returned an error / no answer.
+
+SOA:
+ns6135.hostgator.com
+IP: 50.87.144.87
+
+Name Servers:
+ns6135.hostgator.com
+IP: 50.87.144.87
+
+ns6136.hostgator.com
+IP: 192.232.216.131
+
+Observed DNS Server Version:
+9.16.23-RH
+
+MX Record:
+mail.networkwalks.com
+IP: 192.232.216.135
+
+A Record:
+networkwalks.com
+IP: 192.232.216.135
+
+TXT Records:
+Google site verification token observed.
+
+SPF:
+v=spf1 +a +mx +ip4:50.87.144.87 +include:websitewelcome.com ~all
+
+SRV Records:
+No SRV records found.
