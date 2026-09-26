@@ -1,1 +1,31 @@
+cURL HTTP Header Evidence — networkwalks.com
 
+Command:
+curl -I https://networkwalks.com
+
+HTTP Response:
+HTTP/2 200
+
+Observed Headers:
+
+permissions-policy: [observed]
+link: <https://networkwalks.com/wp-json/>; rel="https://api.w.org/"
+link: <https://networkwalks.com/wp-json/wp/v2/pages/53>; rel="alternate"; title="JSON"; type="application/json"
+
+set-cookie:
+__wpdm_client=[session value]; Secure; HttpOnly
+
+referrer-policy:
+no-referrer-when-downgrade
+
+x-endurance-cache-level:
+0
+
+x-nginx-cache:
+WordPress
+
+content-type:
+text/html; charset=UTF-8
+
+server:
+Apache
