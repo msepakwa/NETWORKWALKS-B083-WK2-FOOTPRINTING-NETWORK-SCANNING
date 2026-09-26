@@ -1,1 +1,23 @@
+WHOIS Evidence — networkwalks.com
 
+Domain Name: NETWORKWALKS.COM
+Registry Domain ID: 2452319255_DOMAIN_COM-VRSN
+Registrar: GoDaddy.com, LLC
+Creation Date: 2019-11-06T22:51:46Z
+Updated Date: 2025-11-12
+Registry Expiry Date: 2027-11-06T22:51:46Z
+
+Domain Status:
+clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+
+Name Servers:
+NS6135.HOSTGATOR.COM
+NS6136.HOSTGATOR.COM
+
+DNSSEC: unsigned
+
+Registrant Privacy:
+Domains By Proxy, LLC
