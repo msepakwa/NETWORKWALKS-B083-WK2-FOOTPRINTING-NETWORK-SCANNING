@@ -1,1 +1,10 @@
+WAFW00F Evidence — networkwalks.com
 
+Target:
+https://networkwalks.com
+
+Detection:
+The site https://networkwalks.com is behind ModSecurity (SpiderLabs) WAF.
+
+Requests:
+2
